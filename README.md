@@ -29,6 +29,14 @@ Please refer to code in MaskDetectorDataIterator and CNN_Model
 
 ###  Evaluation
 
+* Below is the screenshot of both **Evaluation and Confusion Matrix** for both train and test sets.
+
+#### Train set:
+![alt text here](https://github.com/johanfaqarzain/Cobra/blob/main/Evaluation/Train%20Result.jpg)
+
+#### Test set:
+![alt text here](https://github.com/johanfaqarzain/Cobra/blob/main/Evaluation/Test%20Result.jpg)
+
 * Below is the **Evaluation Metrics** for both train and test sets.
 
 | Sets         | Training Set  | Test Set  | 
@@ -37,14 +45,6 @@ Please refer to code in MaskDetectorDataIterator and CNN_Model
 | **Precision**| 72.98%        |   70.69%  | 
 | **Recall**   | 94.27%        |   85.42%  | 
 | **F1 Score** | 82.27%        |   77.36%  | 
-
-* Below is the screenshot of both **Evaluation Confusion Matrix** for both train and test sets.
-
-#### Train set:
-![alt text here](https://github.com/johanfaqarzain/Cobra/blob/main/Evaluation/Train%20Result.jpg)
-
-#### Test set:
-![alt text here](https://github.com/johanfaqarzain/Cobra/blob/main/Evaluation/Test%20Result.jpg)
 
 ## Possible Improvement
 1. Use more Training Data.
