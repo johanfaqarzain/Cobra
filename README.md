@@ -18,7 +18,7 @@ Images has been gathered from various sources but mostly gathered through [Kaggl
 ### * Data Processing
 * Dataset split into 2 class and 2 sets.
 | Class        | Training Set  | Test Set  | Total |
-| -------------|:-------------:| :--------:|:---:  |
+| :-------------:|:-------------:| :--------:|:---:  |
 | **Mask**     | 192           |   48      | 240   |
 | **No Mask**  | 192           |   48      | 240   |
 | **Total**    | 384           |   96      | 480   |
@@ -30,7 +30,7 @@ Please refer to code in MaskDetectorDataIterator and CNN_Model
 
 * Below is the evaluation metrics for both train and test sets.
 | Sets         | Training Set  | Test Set  | 
-| -------------|:-------------:| :--------:|
+| :-------------:|:-------------:| :--------:|
 | **Accuracy** | 79.69%        |   75.00%  | 
 | **Precision**| 72.98%        |   70.69%  | 
 | **Recall**   | 94.27%        |   85.42%  | 
