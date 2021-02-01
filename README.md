@@ -41,7 +41,7 @@ Images has been gathered from various sources but mostly gathered through [Kaggl
 | **Total**    | 384           |   96      | 480   |
 
 ###  Architecture and Modeling
-Please refer to code in [MaskDetectorDataIterator](https://github.com/johanfaqarzain/Cobra/blob/main/Face-Mask-Detector/MaskDetectorDataIterator.java) and [CNN_Model](https://github.com/johanfaqarzain/Cobra/blob/main/Face-Mask-Detector/CNN_Model.java)
+Please refer the code in [MaskDetectorDataIterator](https://github.com/johanfaqarzain/Cobra/blob/main/Face-Mask-Detector/MaskDetectorDataIterator.java) and [CNN_Model](https://github.com/johanfaqarzain/Cobra/blob/main/Face-Mask-Detector/CNN_Model.java)
 
 ###  Evaluation
 
