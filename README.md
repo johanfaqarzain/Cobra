@@ -1,6 +1,22 @@
 # FaceMaskDetector_Cobra
 A small group project about **face mask classification using CNN**.
 
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Problem Statement](#problem-statement)
+3. [The Idea](#the-idea)
+4. [The Journey](#the-journey)
+
+    i. [Data Collection](#data-collection)
+    
+    ii. [Data Processing](#data-processing)
+    
+    iii. [Architecture and Modeling](#architecture-and-modeling)
+    
+    iv. [Evaluation](#evaluation)
+
+5. [Possible Improvement](#possible-improvement)
+
 ## Introduction
 In these tough COVID-19 times, we decide to build a very simple and basic Convolutional Neural Network (CNN) model to detect if you are wearing a face mask to protect yourself.
 
