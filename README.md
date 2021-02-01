@@ -1,2 +1,2 @@
-# Cobra
-Image classification on either wearing mask or not.
+# FaceMaskDetector_Cobra
+Face mask classification using CNN.
