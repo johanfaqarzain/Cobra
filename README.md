@@ -12,21 +12,21 @@ The main idea is to do a simple image classification either people are wearing a
 
 ## The Journey
 
-### * ...Data Collection
+### * Data Collection
 Images has been gathered from various sources but mostly gathered through [Kaggle](https://github.com/adityap27/face-mask-detector) & [Google Image](https://images.google.com/imghp?hl=en&gl=ar&gws_rd=ssl).240 set of images had been used for both training and test set respectively.
 
-### * ...Data Processing
-* Dataset split into 2 class and 2 sets:
+### * Data Processing
+* Dataset split into 2 class and 2 sets.
 | Class        | Training Set  | Test Set  | Total |
 | -------------|:-------------:| :--------:|:---:  |
 | **Mask**     | 192           |   48      | 240   |
 | **No Mask**  | 192           |   48      | 240   |
 | **Total**    | 384           |   96      | 480   |
 
-### * ...Architecture and Modeling
+### * Architecture and Modeling
 Please refer to code in MaskDetectorDataIterator and CNN_Model
 
-### * ...Evaluation
+### * Evaluation
 
 * Below is the evaluation metrics for both train and test sets.
 | Sets         | Training Set  | Test Set  | 
