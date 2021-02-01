@@ -24,7 +24,7 @@ In these tough COVID-19 times, we decide to build a very simple and basic Convol
 Studies have proved that wearing a face mask significantly reduces the risk of viral transmission as well as provides a sense of protection. However, it is not feasible to manually track the implementation of this policy.We introduce a Deep Learning based system that can detect instances where face masks are not used properly. Our system consists of a Convolutional Neural Network (CNN) architecture capable of detecting masked and unmasked faces.This will help track safety violations, promote the use of face masks, and ensure a safe working environment.
 
 ## The Idea
-The main idea is to do a simple image classification either people are wearing a mask or not by using a model which utilizes a CNN architecture. 240 set of images had been used for both training and test set respectively.
+The main idea is to do a simple image classification either people are wearing mask or not by using a model which utilizes a CNN architecture. 240 set of images had been used for both training and test set respectively.
 
 ## The Journey
 
