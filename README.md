@@ -41,10 +41,10 @@ Please refer to code in MaskDetectorDataIterator and CNN_Model
 * Below is the screenshot of both **Evaluation Confusion Matrix** for both train and test sets.
 
 #### Train set:
-![alt text here](Train Result.png)
+![alt text here](Evaluation/Train Result.jpg)
 
 #### Test set:
-![alt text here](Test Result.png)
+![alt text here](Evaluation/Test Result.jpg)
 
 ## Possible Improvement
 1. Use more Training Data.
