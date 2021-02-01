@@ -38,19 +38,13 @@ Please refer to code in MaskDetectorDataIterator and CNN_Model
 | **Recall**   | 94.27%        |   85.42%  | 
 | **F1 Score** | 82.27%        |   77.36%  | 
 
-* Below is the **Confusion Matrix** for both train and test sets.
+* Below is the screenshot of both **Evaluation Confusion Matrix** for both train and test sets.
 
-#### Train set
-| 0  | 1  |  
-| :---:|:----:| 
-| 125 | 67    |  
-| 11  | 181     |  
+#### Train set:
+![alt text](Result/Train Result.png)
 
 #### Test set
-| 0  | 1  |  
-| :---:|:----:| 
-| 31 | 17    |  
-| 7  | 41     | 
+![alt text](Result/Test Result.png)
 
 ## Possible Improvement
 1. Use more Training Data.
