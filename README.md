@@ -13,7 +13,7 @@ The main idea is to do a simple image classification either people are wearing a
 ## The Journey
 
 ### Data Collection
-Images has been gathered from various sources but mostly gathered through [Kaggle](https://github.com/adityap27/face-mask-detector) & [Google Image](https://images.google.com/imghp?hl=en&gl=ar&gws_rd=ssl).240 set of images had been used for both training and test set respectively.
+Images has been gathered from various sources but mostly gathered through [Kaggle](https://github.com/adityap27/face-mask-detector) & [Google Image](https://images.google.com/imghp?hl=en&gl=ar&gws_rd=ssl). 240 set of images had been used for both training and test set respectively.
 
 ### Data Processing
 * Dataset split into 2 class and 2 sets.
@@ -51,3 +51,9 @@ Please refer to code in MaskDetectorDataIterator and CNN_Model
 | :---:|:----:| 
 | 31 | 17    |  
 | 7  | 41     | 
+
+## Possible Improvement
+1. Use more Training Data.
+2. Use more Data Augmentation for Training Data.
+3. Use Transfer Learning like VGG16 and etc.
+4. Can improve the application by doing localization using YOLO and segmentation using U-Net.
