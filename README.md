@@ -1,5 +1,5 @@
 # FaceMaskDetector_Cobra
-A small group project about **face mask classification using CNN**.
+A simple group project about **face mask classification using CNN**.
 
 ## Table of Contents
 1. [Introduction](#introduction)
